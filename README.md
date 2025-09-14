@@ -6,8 +6,6 @@
 
 > A comprehensive database system for tracking customer relationships, product inventory, sales performance, and customer feedback analytics.
 
-Architecture
-<img width="960" height="110" alt="Customer_and_Product_Sales_Tracking_ERD" src="https://github.com/user-attachments/assets/65268274-de9e-4990-9839-00c3a27ac7cf" />
 
 ## 🎯 Overview
 
@@ -87,6 +85,9 @@ erDiagram
     }
     
 ```
+
+<img width="960" height="110" alt="Customer_and_Product_Sales_Tracking_ERD" src="https://github.com/user-attachments/assets/65268274-de9e-4990-9839-00c3a27ac7cf" />
+
 
 ## 📋 Database Schema
 

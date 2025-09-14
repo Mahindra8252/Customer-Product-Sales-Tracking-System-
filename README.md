@@ -6,6 +6,9 @@
 
 > A comprehensive database system for tracking customer relationships, product inventory, sales performance, and customer feedback analytics.
 
+Architecture
+<img width="960" height="110" alt="Customer_and_Product_Sales_Tracking_ERD" src="https://github.com/user-attachments/assets/65268274-de9e-4990-9839-00c3a27ac7cf" />
+
 ## 🎯 Overview
 
 This project implements a robust relational database system designed to manage and analyze customer sales data, track product performance, monitor sales representative effectiveness, and gather customer feedback insights. Perfect for businesses looking to optimize their sales processes and improve customer satisfaction.

@@ -2,7 +2,7 @@
 
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![Database](https://img.shields.io/badge/Database-Relational-green?style=for-the-badge)](https://github.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+
 
 > A comprehensive database system for tracking customer relationships, product inventory, sales performance, and customer feedback analytics.
 
